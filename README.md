@@ -5,6 +5,7 @@ To build the program navigate to the directory all files are in and type 'make' 
 To run the program type 'escape' into the cmd line.
 
 To beat the game follow these instructions.
+
 Turn right twice. You should be facing a desk.
 Interact until you receive a screwdriver.
 
