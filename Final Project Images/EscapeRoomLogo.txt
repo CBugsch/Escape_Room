@@ -1,0 +1,37 @@
+
+.  .    .   ..........  .   ........  ...   ....         .. ..  .........  .  . 
+......   .... ...... . ....::::::::::. .  ......     . ...........  ..........  
+.NDDDDDDDNN8.DNNNNNDDDDDI.,DNDNNNNNNN~ ....DNNN.    .NNNDDDNNNDN+:DDNNNNNNNN..  
+.NDDDNNNNDN8 NDDDDDZINNNI.,DDD++++DND~....,DNNND . . NNNDNNNNDDN:.NDDDDDNNNN....
+.NNN .       NND ....$DNI.,DDD....MNN=... NDDDND     NNN..  .7DN: NDM.....  ..  
+.NNN..      .NND,.  .$DDI..DNN . .MNN=....DNNOND7... NDNNNDDNDDN: DDN....  .    
+.NDD..  .  ..MDNDN...~=+~..DNN. ..MDD~...~DND.DDN .. NDDNDNDNDNN: DDM..... .    
+.NDD:,,:?:. ..MDDNDD, ....:DDN..  ...,...ZDNN.NND. . NDN........ .DDDNNDMD.     
+.NDDDNDND:... ..8DDNNNO.. =DDN...    ....MDNN.$ND=.. NDN ...    ..DDDDDNDN..    
+.NDNNMNNN+ ...  ..:MDNDNN.~DDN ..  .     NND~..DNN.. NDN        ..NDN7?=:, .    
+.NDN:.....  .NDN:  ..ODDM.~DDN .. ,DDN  .DNN...MNN.. NDN        ..DDN .... .    
+.NDD=   .   .NND:   .?DDM.,NDN....,DND  +DDNNNDNDD.. NNN...      .DDM....    .  
+.NDD=.  .   .NND~... +DNN.,DDN.. .,DND  DDDNNNNNDDO. NDN...      .NDM....  ,Z.  
+.NDD=...... .NND~.,,,:DNN..DNDN8888DND  NND.....MNM..NDN...      .NDDDDDDDNDD   
+.NDNNDNNNDDM NDDNDDNNNDDN..NDDDDDDDDND  NNN.    8ND..NDN..       .NNNNNNNNNN7.  
+.ONNNNNNDNNM.MNNNNNNNNNNM..:.......,=+.,DNI.    .DN,.MNM..        .         .   
+   .........    .........  ........ ..     .      .    . ..      ...        ..  
+ ...            ........            .... ...          . ..  .......    ...  ..  
+  ????????????????..  MNNN888888888888~...NNNNNNNNNNNNNNN+...~MNNN..    DDNDN.  
+..DNDDDDDDDDDDDDDD~...MNDDDDDDDDDDDDND:. .NNDDDDDDDDDDDDNO  .DDDDNM... .DNDN,...
+..DNDDDDDDDDDNDNDND...NDNNDNDDDDDNNDND~. .NDDDNNDDDDNDDDNO ..ODDDDN. ..MDDDNN...
+ .DNNDNNDDDDDNNNDNN.. NNDDD.,,,,,ZNNND~. .NDNDO$$$$$ZNDDNO. .IDNDDDN..~NNDDNM...
+ .DNDDO.......DNNDN. .NDDNN.    .~DDND~. .MDDN$......MDDNO  .=DNDNNN+ NDDDDNM  .
+ .DNNDDNDDDDDDNDDDN...NDDNN.     ,DNND~. .MDDNO.    .MDNNM...:DNDDDDDZDNNDDNN...
+ .DNDDDDDDDDNNDDDDN...MNDNN     ..DNND~.  NNDND.    .MDNNM ...DDDDDDDDDDDDDNN ..
+ .DNDNDDDNNNNNNDDDD~ .ZDNND     ..DDND~. .NNDN8.    .DDNNN..  NDDDDDDDDNNDDDN...
+ .DNNNZ. .NNDNN... . .7NNDN      .NNND~.  NNDD8.    .NDDDN .  NNDDDDDDDNDDDND.. 
+ .DNNND. .NNNND:.... .7DNDN.     .NDND~.  NNDD8.    .NDDND..  NNDNNNDDNNNDDDD.. 
+ .DDDDM ..?DDND8.... .7DNND      .NDND~.  NNDND.    .NDDDD..  NNDN$NDDNDDNDDN.. 
+.,DNDDN..  DDNNN...  .7DNND      .NDND~.  NNNNZ.    .NDDNN..  NNDNM8NDDMZDNDD.. 
+ .DDDDN..  NDDDN=.   .7DNND      .NNND~.  NNDDN.   ..NDNNN.   NNDNN.NDN?ZNDDM...
+ .NDDDD,.    NDNDN,. .$NNDN:::::::NNDNN  .MNDDN...,::7DDNN..  NNDNN. .  ZDNNN,. 
+..NNDDD,.  . ~NDDDZ...$NNNNDDDDDDDDNDDN ..DNDDNNDNDNNDDDNN.. .NNNNN. ...ZDNDN,. 
+ .NNDNN..  .. MDDDN ..7NNNNNDDDDNNNNDNN. .$NNDNNNNDDDDNDNN... NDNNN.   .ZDNNN,. 
+  ZNNND .   . ,NNNN.  ..................  =ONMNNMNDNNNMMNN    88DDD    .+MMNN,  
+   .    .   .......     .             ...   ............    ..  ...      ...    
